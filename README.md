@@ -15,3 +15,8 @@ https://github.com/krishnaik06/Complete-Python-Bootcamp
 https://github.com/krishnaik06/Complete-Data-Science-With-Machine-Learning-And-NLP-2024
 
 https://github.com/krishnaik06/The-Grand-Complete-Data-Science-Materials
+```
+
+## LSTM Blog
+```
+https://colah.github.io/posts/2015-08-Understanding-LSTMs/
